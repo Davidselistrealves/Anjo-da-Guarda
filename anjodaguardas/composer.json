@@ -1,0 +1,16 @@
+{
+    "name": "david/anjodaguarda",
+    "autoload": {
+        "psr-4": {
+            "David\\Anjodaguarda\\": "src/",
+            "Model\\": "src/model/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Davidselistrealves",
+            "email": "davidselistre@gmail.com"
+        }
+    ],
+    "require": {}
+}
